@@ -1,16 +1,12 @@
 .page.theme_dark {
-  --background-image:url(../images/cover-image-dark.png);
+  --background-image: url(../images/cover-image-dark.png);
   --background-color: #000028;
-  --font-family: "IBM Plex mono",arial,helvetica,sans-serif,monospace;
-  --font-size-text:18px;
-  --font-weight-normal:400;
-  --font-weight-bold:700;
-  --color-title:#DB00FF;
-  --color-text:#F1B2CE;
-  --color-text-title:#000028;
-  --color:#FF0070;
-  --allocation-color:#FF0070;
-  --text-shadow-color:#FF0070;
+  --color-title: #DB00FF;
+  --color-text: #F1B2CE;
+  --color-text-title: #000028;
+  --color: #FF0070;
+  --allocation-color: #FF0070;
+  --text-shadow-color: #FF0070;
 }
 
 .page.theme_dark .decorated-zone__bulb {
